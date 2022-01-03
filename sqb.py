@@ -1,3 +1,5 @@
+# Exploiting blind SQL injection
+
 import requests
 
 ROOM_ID = ''
