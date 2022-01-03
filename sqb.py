@@ -1,4 +1,4 @@
-# Exploiting blind SQL injection
+# Exploiting blind SQL injection by triggering conditional responses
 
 import requests
 
